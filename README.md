@@ -85,6 +85,8 @@ These skills work with multiple AI coding assistants:
 - **Gemini CLI**
 - **Amp, Antigravity, Augment** and 30+ more
 
+This one only focuses on CC as it's my favourite
+
 ## Usage
 
 Once installed, just ask your AI assistant to help with resume tasks:
