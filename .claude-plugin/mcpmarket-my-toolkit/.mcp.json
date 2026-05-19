@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mcpmarket-my-toolkit": {
+      "url": "https://link.mcpmarket.com/jessgao11/toolkits/my-toolkit/mcp",
+      "headers": {
+        "Authorization": "Bearer sk_user_1EhmEey5yaGCoBhkRi0obH1f4lidxSEh"
+      }
+    }
+  }
+}
